@@ -50,6 +50,16 @@ other non-technical people) it requires jupyter notebook to be used.
 8. feel free to edit the slides to your liking
 9. enjoy!
 
+
+
+If you have not installed them yet, install these first or if the program don't work:
+
+pip install requests
+pip install pandas
+pip install beautifulsoup4
+pip install python-pptx
+
+
 ******************************  KEEP IN MIND  ******************************
 
 ---WEBSCRAPING---
